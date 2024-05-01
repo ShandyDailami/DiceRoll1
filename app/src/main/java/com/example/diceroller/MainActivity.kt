@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         // Calls the button id
         val rollBtn: Button = findViewById(R.id.btn_roll)
 
+        // Calls the image view id
         val diceImgFirst: ImageView = findViewById(R.id.iv_img_first)
         val diceImgSecond: ImageView = findViewById(R.id.iv_img_second)
 
